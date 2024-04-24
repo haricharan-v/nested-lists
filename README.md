@@ -7,7 +7,7 @@ This Python script prompts the user to input the number of students and then inp
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine.
 3. Navigate to the directory where the script is located.
-4. Run the script by executing `python second_lowest_score.py` in your terminal.
+4. Run the script by executing `python nested-lists.py` in your terminal, or opening the file in a Python IDE.
 5. Follow the prompts to input the number of students and their names along with their scores.
 
 ## Python Version
